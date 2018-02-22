@@ -1,0 +1,22 @@
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  padding: 50px;
+  font-family: 'Roboto', sans-serif;
+  color: green;
+  border: 10px;
+  border-radius: 5px;
+}
+
+.logo {
+    widht: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+}
+
+.mapa {
+	margin-top: 50px;
+	padding-top: 50px;
+    }
